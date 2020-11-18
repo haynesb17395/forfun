@@ -1,0 +1,5 @@
+com\example\springbootwebapp\controller\AppController.class
+com\example\springbootwebapp\model\Contact.class
+com\example\springbootwebapp\service\ContactService.class
+com\example\springbootwebapp\SpringBootWebAppApplication.class
+com\example\springbootwebapp\repository\ContactRepository.class
